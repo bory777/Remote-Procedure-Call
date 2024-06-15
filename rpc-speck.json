@@ -1,0 +1,14 @@
+{
+    "request": {
+        "method": "string",
+        "params": ["any"],
+        "param_types": ["string"],
+        "id": "int"
+    },
+
+    "response": {
+        "results": "any",
+        "result_type": "string",
+        "id": "int"
+    }
+}
