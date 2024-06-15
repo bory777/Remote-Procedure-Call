@@ -33,7 +33,7 @@ class SocketClient {
 
     printMethodDiscription(){
         console.log('以下を参照しメソッド名と値を入力してください。')
-        console.log('メソッド名: floor \n 値: (double x),   【10 進数 x を最も近い整数に切り捨て、その結果を整数で返す。】')
+        console.log('メソッド名: floor, 値: (double x),   【10 進数 x を最も近い整数に切り捨て、その結果を整数で返す。】')
         console.log('メソッド名: nroot, 値: (int n, int x),   【方程式 rn = x における、r の値を計算する。】')
         console.log('メソッド名: reverse, 値: (string s),   【文字列 s を入力として受け取り、入力文字列の逆である新しい文字列を返す。】')
         console.log('メソッド名: validAnagram, 値: (string str1, string str2),   【2 つの文字列を入力として受け取り，2 つの入力文字列が互いにアナグラムであるかどうかを示すブール値を返す。】')
